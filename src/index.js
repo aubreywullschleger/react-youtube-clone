@@ -8,6 +8,7 @@ const API_KEY = 'AIzaSyDBnx4Ayi1n_0M5A7R7ctUyy7hwC5gKmVc';
 // create a new component, this component
 // should produce some HTML
 
+// functional component below --
 const App = () => {
   return (
     <div>
